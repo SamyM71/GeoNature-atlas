@@ -10,6 +10,7 @@ geojson
 gunicorn
 itsdangerous < 2.0
 Jinja2 < 3.0
+markdown
 MarkupSafe
 marshmallow
 python-dotenv
